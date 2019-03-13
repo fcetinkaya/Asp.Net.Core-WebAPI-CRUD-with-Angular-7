@@ -1,5 +1,7 @@
 # Asp.Net Core WebAPI - Angular 7 CRUD
 
+<img src="https://raw.githubusercontent.com/fcetinkaya/Angular7CRUD_CoreWebAPI/master/AspNetCoreWebAPI.JPG" />
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0-rc.0.
 
 ## Development server
