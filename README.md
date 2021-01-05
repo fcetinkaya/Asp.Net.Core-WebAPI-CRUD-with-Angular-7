@@ -1,4 +1,4 @@
-# Asp.Net Core WebAPI - Angular 7 CRUD
+# Asp.Net Core WebAPI CRUD with Angular 7
 
 <img src="https://raw.githubusercontent.com/fcetinkaya/Angular7CRUD_CoreWebAPI/master/AspNetCoreWebAPI.JPG" />
 
